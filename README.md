@@ -12,7 +12,7 @@ This project analyzes crypto trader behavior and market sentiment using two data
 The goal is to explore how market psychology influences trading decisions and profitability.
 It includes data cleaning, EDA, correlation analysis, and a simple ML-based forecasting model.
 
-##Key Analysis
+## Key Analysis
 
 * Trend of execution prices over time.
 
@@ -22,7 +22,7 @@ It includes data cleaning, EDA, correlation analysis, and a simple ML-based fore
 
 * Forecasting model to predict next-day returns.
 
-##Tools & Libraries
+## Tools & Libraries
 
 Python, Pandas, NumPy
 
